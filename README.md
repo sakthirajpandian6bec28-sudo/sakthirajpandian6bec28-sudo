@@ -2,7 +2,7 @@
 
 🚀 Electronics & Tech Explorer | ECE Student
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dineshb1310\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Dineshb1310\&color=red)
 
 ---
 
